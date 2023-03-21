@@ -1,0 +1,11 @@
+¿Qué es GIT?
+Git es un software que tiene el control de versiones de proyectos.
+▪ ¿Qué es un pull request?
+ forma de contribuir a un proyecto grupal o de código abierto.
+▪ ¿Qué es un commit?
+captura una instantánea de los cambios preparados en ese momento del proyecto
+▪ ¿GIT y GitHub es lo mismo? Explique
+no, uno no permite ver las antiguas versiones
+▪ ¿Qué es scrum?
+▪ ¿Para qué sirve una metodología ágil de desarrollo?
+Para facilitar el desarrollo
